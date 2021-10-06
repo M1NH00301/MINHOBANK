@@ -1,0 +1,5 @@
+C:\Users\emili\Desktop\arquivos\MEUS PROJETOS\BOOTCAMP EVERISNEW\.net\Bank.Dio1\obj\Debug\net5.0\Bank.Dio1.csproj.AssemblyReference.cache
+C:\Users\emili\Desktop\arquivos\MEUS PROJETOS\BOOTCAMP EVERISNEW\.net\Bank.Dio1\obj\Debug\net5.0\Bank.Dio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emili\Desktop\arquivos\MEUS PROJETOS\BOOTCAMP EVERISNEW\.net\Bank.Dio1\obj\Debug\net5.0\Bank.Dio1.AssemblyInfoInputs.cache
+C:\Users\emili\Desktop\arquivos\MEUS PROJETOS\BOOTCAMP EVERISNEW\.net\Bank.Dio1\obj\Debug\net5.0\Bank.Dio1.AssemblyInfo.cs
+C:\Users\emili\Desktop\arquivos\MEUS PROJETOS\BOOTCAMP EVERISNEW\.net\Bank.Dio1\obj\Debug\net5.0\Bank.Dio1.csproj.CoreCompileInputs.cache
